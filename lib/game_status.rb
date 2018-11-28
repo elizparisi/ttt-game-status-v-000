@@ -22,3 +22,10 @@ def won?(board)
 		end
 end
 
+def full?(board)
+  
+def draw?(board)
+  
+def over?(board)
+  
+def winner(board)
