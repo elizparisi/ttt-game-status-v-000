@@ -23,7 +23,7 @@ def won?(board)
 end
 
 def full?(board)
-  board.all? {|space| space == "X" || space == "O"}
+  board.all?{|space| space == "X" || space == "O"}
 			end
   
 def draw?(board)
